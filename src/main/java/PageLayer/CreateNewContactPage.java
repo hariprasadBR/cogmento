@@ -1,6 +1,5 @@
 package PageLayer;
 
-import java.util.Iterator;
 import java.util.List;
 
 import org.openqa.selenium.WebElement;
@@ -9,9 +8,11 @@ import org.openqa.selenium.support.FindBys;
 import org.openqa.selenium.support.PageFactory;
 
 import BaseLayerPackage.BaseClass;
+import UtilityLayer.DropDownImpl;
 
 public class CreateNewContactPage extends BaseClass {
-
+	private DropDownImpl dropdown = new DropDownImpl();
+	
 	@FindBy(xpath = "//i[@class='users icon']")
 	private WebElement contactIcon;
 
@@ -52,16 +53,18 @@ public class CreateNewContactPage extends BaseClass {
 
 		Thread.sleep(4000);
 
-		for (Iterator<WebElement> iterator = statusList.iterator(); iterator.hasNext();) {
-			WebElement webelement = (WebElement) iterator.next();
-			String actualText = ((WebElement) iterator.next()).getText();
-
-			if (actualText.equals(exptValue)) {
-				webelement.click();
-				break;
-			}
-
-		}
+//		for (Iterator<WebElement> iterator = statusList.iterator(); iterator.hasNext();) {
+//			WebElement webelement = (WebElement) iterator.next();
+//			String actualText = ((WebElement) iterator.next()).getText();
+//
+//			if (actualText.equals(exptValue)) {
+//				webelement.click();
+//				break;
+//			}
+//
+//		}
+		
+		dropdown.withouthSelectClass(statusList, exptValue);
 
 		Thread.sleep(4000);
 		saveButton.click();
