@@ -1,0 +1,1105 @@
+2025-07-03 06:09:04,989 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:09:04,989 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:09:04,989 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:09:04,994 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:09:04,994 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:09:04,994 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:09:04,996 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:09:04,996 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:09:04,996 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:09:04,998 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:09:04,998 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:09:04,998 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:09:05,002 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:09:05,002 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:09:05,002 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:09:09,661 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:09:09,662 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:09:09,662 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:09:09,696 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:09:09,711 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:09:09,819 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:09:09,834 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:09:09,838 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:09:14,587 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:09:14,587 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:09:14,587 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:09:14,783 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:09:14,797 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:09:15,139 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:09:15,140 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:09:15,142 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:09:20,178 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:09:20,179 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:09:20,180 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:09:20,261 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:09:20,280 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:09:20,576 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:09:20,576 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:09:20,577 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:28:29,271 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:29,431 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:29,450 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:29,563 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:28:29,563 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:28:29,563 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:28:29,569 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:28:29,570 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:28:29,569 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:28:29,571 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:28:29,571 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:28:29,573 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:28:29,576 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:28:29,577 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:28:29,578 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:28:29,584 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:28:29,584 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:28:29,584 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:28:35,094 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:28:35,095 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:35,095 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:28:35,349 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:28:35,356 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:28:35,744 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:28:35,747 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:28:35,749 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:28:36,907 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:28:36,908 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:36,908 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:28:37,097 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:28:37,118 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:28:37,423 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:28:37,424 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:28:37,425 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:28:44,217 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:28:44,218 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:28:44,218 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:28:44,242 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:28:44,254 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:28:44,537 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:28:44,538 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:28:44,538 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:30:36,594 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:36,704 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:36,726 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:36,826 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:30:36,826 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:30:36,826 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:30:36,835 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:30:36,835 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:30:36,835 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:30:36,835 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:30:36,835 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:30:36,837 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:30:36,840 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:30:36,840 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:30:36,840 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:30:36,843 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:30:36,843 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:30:36,843 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:30:40,969 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:30:40,970 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:40,970 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:30:41,047 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:30:41,065 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:30:41,202 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:30:41,244 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:30:41,246 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:30:41,936 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:30:41,936 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:41,938 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:30:42,158 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:30:42,178 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:30:42,474 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:30:42,475 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:30:42,475 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:30:48,590 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:30:48,592 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:30:48,592 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:30:48,608 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:30:48,623 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:30:48,920 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:30:48,921 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:30:48,923 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:33:49,640 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:33:49,640 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:33:49,640 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:33:49,645 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:33:49,645 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:33:49,645 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:33:49,647 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:33:49,647 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:33:49,647 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:33:49,647 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:33:49,647 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:33:49,648 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:33:49,651 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:33:49,651 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:33:49,651 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:33:49,656 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:33:49,656 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:33:49,656 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:33:55,746 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:33:55,747 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:33:55,747 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:33:55,869 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:33:55,877 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:33:56,193 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:33:56,198 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:33:56,199 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:33:56,344 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:33:56,344 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:33:56,345 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:33:56,412 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:33:56,425 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:33:56,600 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:33:56,600 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:33:56,601 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:34:05,952 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:34:05,957 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:34:05,957 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:34:05,985 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:34:05,997 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:34:06,273 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:34:06,276 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:34:06,280 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:36:12,625 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:12,625 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:12,625 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:12,629 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:36:12,629 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:36:12,629 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:36:12,634 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:36:12,634 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:36:12,634 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:36:12,634 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:36:12,634 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:36:12,634 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:36:12,636 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:36:12,636 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:36:12,636 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:36:12,639 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:36:12,639 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:36:12,639 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:36:16,479 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:36:16,480 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:16,481 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:36:16,636 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:36:16,688 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:36:16,956 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:36:16,964 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:36:16,965 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:36:17,501 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:36:17,502 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:17,502 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:36:17,590 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:36:17,634 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:36:17,785 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:36:17,787 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:36:17,792 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:36:27,150 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:36:27,151 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:36:27,151 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:36:27,169 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:36:27,185 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:36:27,484 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:36:27,484 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:36:27,484 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:37:41,241 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:41,241 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:41,241 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:41,253 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:37:41,253 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:37:41,253 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:37:41,259 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:37:41,259 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:37:41,259 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:37:41,259 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:37:41,259 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:37:41,260 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:37:41,263 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:37:41,263 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:37:41,263 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:37:41,265 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:37:41,265 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:37:41,265 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:37:45,619 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:37:45,619 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:45,619 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:37:45,830 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:37:45,843 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:37:46,010 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:37:46,013 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:37:46,015 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:37:47,512 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:37:47,519 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:47,521 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:37:47,579 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:37:47,591 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:37:47,724 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:37:47,725 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:37:47,726 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:37:52,601 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:37:52,602 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:37:52,602 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:37:52,618 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:37:52,634 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:37:52,974 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:37:52,974 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:37:52,975 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:39:00,694 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:39:00,694 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:39:00,694 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:39:00,705 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:39:00,705 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:39:00,705 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:39:00,707 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:39:00,707 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:39:00,707 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:39:00,710 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:39:00,710 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:39:00,710 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:39:00,713 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:39:00,713 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:39:00,713 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:39:05,146 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:39:05,147 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:05,147 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:39:05,227 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:39:05,240 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:39:05,464 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:39:05,465 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:05,465 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:39:05,535 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:39:05,539 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:05,540 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:39:05,627 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:39:05,652 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:39:05,926 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:39:05,926 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:05,928 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:39:07,606 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:08,451 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:10,889 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:10,891 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 06:39:11,292 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 06:39:11,661 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:11,662 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 06:39:11,998 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 06:39:14,919 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:39:14,920 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:14,920 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:39:14,935 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:39:14,948 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:39:15,241 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:39:15,245 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:15,247 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:39:17,819 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:39:20,891 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:39:20,892 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 06:39:21,015 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 06:56:52,433 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 06:56:52,433 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 06:56:52,433 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 06:56:52,440 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 06:56:52,440 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:56:52,440 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 06:56:52,440 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 06:56:52,442 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:56:52,442 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 06:56:52,447 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 06:56:52,448 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 06:56:52,449 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 06:56:52,451 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 06:56:52,451 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 06:56:52,455 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 06:56:57,004 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:56:57,004 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:56:57,005 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:56:57,354 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:56:57,354 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:56:57,355 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:56:57,361 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:56:57,394 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:56:57,598 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:56:57,598 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:56:57,612 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:56:57,619 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:56:57,739 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:56:58,072 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:56:58,073 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:56:58,074 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:57:00,275 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:00,849 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:03,429 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:03,863 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:08,512 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 06:57:08,513 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:08,513 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 06:57:08,531 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 06:57:08,553 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 06:57:08,979 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 06:57:08,983 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 06:57:08,987 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 06:57:10,889 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 06:57:13,899 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:44,514 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 07:02:44,514 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 07:02:44,514 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 07:02:44,528 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 07:02:44,528 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 07:02:44,529 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 07:02:44,528 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 07:02:44,529 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 07:02:44,529 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 07:02:44,530 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 07:02:44,530 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 07:02:44,530 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 07:02:44,532 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 07:02:44,532 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 07:02:44,532 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 07:02:49,407 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 07:02:49,408 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:49,408 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 07:02:49,407 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 07:02:49,411 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:49,411 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 07:02:49,488 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 07:02:49,500 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 07:02:49,540 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 07:02:49,614 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 07:02:49,860 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 07:02:49,875 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:02:49,877 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 07:02:50,152 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 07:02:50,152 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:02:50,152 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 07:02:51,761 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:52,958 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:54,863 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:54,947 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:02:54,948 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 07:02:54,948 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 07:02:55,971 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:55,973 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:02:55,974 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 07:02:55,976 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 07:02:59,166 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 07:02:59,167 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:02:59,167 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 07:02:59,182 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 07:02:59,193 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 07:02:59,475 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 07:02:59,478 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:02:59,480 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 07:03:01,919 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:03:04,932 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 07:03:04,934 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 07:03:04,935 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the username from properties file
+2025-07-03 07:03:04,935 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the password from properties file
+2025-07-03 08:08:08,041 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:08:08,041 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:08:08,040 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:08:08,066 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:08:08,067 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:08:08,069 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:08:08,070 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:08:08,078 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:08:08,079 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:08:08,098 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:08:08,106 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:08:08,106 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:08:08,123 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:08:08,131 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:08:08,133 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:08:14,583 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:08:14,583 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:14,584 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:08:14,851 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:08:15,092 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:08:16,108 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:08:16,112 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:08:16,113 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:08:18,036 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:08:18,038 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:18,040 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:08:18,409 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:08:18,424 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:08:18,746 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:08:18,747 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:08:18,748 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:08:19,734 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:22,421 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:27,543 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:27,543 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:31,301 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:08:31,301 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:31,302 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:08:31,332 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:08:31,343 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:08:31,659 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:08:31,661 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:08:31,663 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:31,663 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:08:31,717 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:35,590 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:37,187 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:38,461 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:38,655 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:42,009 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:08:45,133 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:27,975 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:39:27,975 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:39:27,975 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:39:27,989 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:39:27,989 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:39:27,989 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:39:27,990 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:39:27,990 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:39:27,990 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:39:27,996 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:39:27,996 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:39:27,996 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:39:28,000 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:39:28,003 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:39:28,008 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:39:35,146 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:39:35,171 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:35,171 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:39:35,421 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:39:35,435 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:39:35,587 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:39:35,593 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:39:35,596 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:39:38,472 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:39:38,472 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:38,473 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:39:38,476 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:38,540 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:39:38,584 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:39:38,921 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:39:38,922 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:39:38,923 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:39:41,599 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:45,241 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:45,249 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:50,295 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:39:50,295 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:50,295 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:39:50,317 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:39:50,320 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:50,337 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:39:50,654 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:39:50,655 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:39:50,657 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:39:50,798 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:54,304 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:57,490 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:57,730 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:39:58,308 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:40:00,673 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:40:03,796 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:08,997 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:43:08,997 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:43:08,997 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:43:09,007 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:43:09,007 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:43:09,007 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:43:09,008 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:43:09,008 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:43:09,008 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:43:09,012 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:43:09,012 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:43:09,012 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:43:09,014 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:43:09,014 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:43:09,017 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:43:14,153 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:43:14,154 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:14,154 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:43:14,157 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:43:14,158 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:14,159 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:43:14,225 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:43:14,225 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:43:14,257 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:43:14,257 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:43:14,575 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:43:14,578 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:43:14,579 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:43:14,579 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:43:14,585 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:43:14,589 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:43:19,252 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:19,778 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:26,192 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:26,222 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:29,140 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:43:29,142 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:29,143 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:43:29,172 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:43:29,200 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:43:29,505 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:43:29,505 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:43:29,506 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:43:30,087 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:30,180 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:33,338 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:34,712 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:34,861 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:36,456 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:39,929 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:43:43,044 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:07,893 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:45:07,893 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:45:07,893 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:45:07,916 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:45:07,917 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:45:07,917 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:45:07,916 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:45:07,917 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:45:07,918 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:45:07,923 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:45:07,924 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:45:07,923 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:45:07,930 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:45:07,930 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:45:07,930 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:45:15,701 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:45:15,701 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:15,701 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:45:15,702 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:45:15,702 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:15,702 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:45:16,064 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:45:16,109 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:45:16,114 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:45:16,161 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:45:16,619 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:45:16,624 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:45:16,629 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:45:16,671 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:45:16,675 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:45:16,683 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:45:19,451 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:21,579 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:27,168 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:27,273 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:32,063 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:32,082 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:33,257 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:45:33,260 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:33,260 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:45:33,308 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:45:33,385 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:45:33,687 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:45:33,687 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:45:33,689 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:45:36,189 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:36,385 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:36,513 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:39,498 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:42,794 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:45:45,989 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:54:45,496 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:54:45,496 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:54:45,496 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:54:45,507 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:54:45,507 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:54:45,507 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:54:45,508 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:54:45,509 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:54:45,508 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:54:45,514 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:54:45,514 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:54:45,514 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:54:45,521 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:54:45,521 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:54:45,521 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:54:52,570 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:54:52,572 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:54:52,572 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:54:53,032 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:54:53,084 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:54:53,713 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:54:53,717 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:54:53,718 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:54:53,878 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:54:53,878 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:54:53,878 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:54:54,067 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:54:54,083 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:54:54,712 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:54:54,713 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:54:54,715 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:55:00,489 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:01,594 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:06,503 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:06,503 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:12,880 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:55:12,881 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:12,881 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:55:12,948 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:55:13,247 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:55:13,557 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:55:13,557 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:55:13,558 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:55:16,596 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:55:19,669 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:21,814 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:56:21,814 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:56:21,814 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:56:21,824 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:56:21,824 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:56:21,824 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:56:21,825 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:56:21,825 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:56:21,825 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:56:21,828 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:56:21,828 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:56:21,828 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:56:21,830 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:56:21,830 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:56:21,830 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:56:28,212 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:56:28,213 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:28,213 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:56:28,787 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:56:28,834 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:56:29,215 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:56:29,613 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:56:29,716 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:56:30,416 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:56:30,417 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:30,417 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:56:30,641 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:56:30,674 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:56:31,289 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:56:31,289 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:56:31,290 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:56:36,348 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:37,496 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:40,994 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:56:40,995 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:40,996 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:56:41,108 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:56:42,015 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:56:42,679 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:56:42,680 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:56:42,681 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:56:43,336 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:43,337 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:46,448 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:56:49,598 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:02,628 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:58:02,628 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:58:02,628 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:58:02,639 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:58:02,639 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:58:02,639 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:58:02,639 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:58:02,639 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:58:02,639 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:58:02,642 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:58:02,642 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:58:02,642 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:58:02,643 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:58:02,644 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:58:02,644 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:58:08,046 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:58:08,047 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:08,048 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:58:08,130 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:58:08,140 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:58:08,519 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:58:08,523 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:58:08,523 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:58:09,770 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:58:09,771 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:09,772 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:58:10,018 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:58:10,035 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:58:10,504 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:58:10,504 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:58:10,506 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:58:11,475 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:12,537 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:19,918 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:58:19,920 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:19,920 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:58:19,944 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:58:19,958 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:58:20,173 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:20,186 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:20,262 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:58:20,263 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:58:20,267 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:58:23,552 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:58:26,644 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:39,055 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 08:59:39,055 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 08:59:39,055 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 08:59:39,070 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 08:59:39,071 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:59:39,072 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 08:59:39,073 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:59:39,073 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 08:59:39,074 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 08:59:39,078 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 08:59:39,078 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 08:59:39,078 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 08:59:39,080 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 08:59:39,080 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 08:59:39,081 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 08:59:44,569 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:59:44,569 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:44,569 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:59:44,676 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:59:44,697 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:59:44,970 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:59:44,972 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:44,973 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:59:44,998 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:59:45,003 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:59:45,010 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:59:45,312 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:59:45,322 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:59:45,652 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:59:45,653 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:59:45,653 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:59:48,271 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:48,848 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:55,333 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:55,342 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:57,074 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 08:59:57,075 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:57,075 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 08:59:57,098 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 08:59:57,128 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 08:59:57,427 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 08:59:57,428 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 08:59:57,429 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 08:59:59,736 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 08:59:59,940 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:01,104 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:04,273 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:04,511 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:04,660 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:07,490 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:10,726 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:00:59,296 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 09:00:59,296 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 09:00:59,296 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 09:00:59,307 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 09:00:59,307 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 09:00:59,307 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 09:00:59,308 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:00:59,308 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:00:59,308 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:00:59,311 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 09:00:59,311 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 09:00:59,311 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 09:00:59,313 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 09:00:59,313 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 09:00:59,313 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 09:01:04,682 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:01:04,682 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:01:04,683 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:04,683 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:04,683 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:01:04,683 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:01:04,769 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:01:04,771 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:01:04,800 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:01:04,830 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:01:05,211 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:01:05,213 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:01:05,215 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:01:05,265 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:01:05,266 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:01:05,266 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:01:07,914 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:09,368 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:14,261 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:14,261 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:18,299 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:18,593 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:18,651 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:01:18,652 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:18,652 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:01:18,677 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:01:18,698 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:01:18,985 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:01:18,986 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:01:18,987 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:01:22,326 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:23,973 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:25,261 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:25,428 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:28,697 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:01:31,833 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:02:50,643 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 09:02:50,643 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 09:02:50,643 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 09:02:50,656 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 09:02:50,656 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 09:02:50,657 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:02:50,656 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 09:02:50,657 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:02:50,657 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:02:50,660 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 09:02:50,660 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 09:02:50,660 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 09:02:50,662 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 09:02:50,662 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 09:02:50,662 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 09:02:57,183 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:02:57,183 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:02:57,183 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:02:57,183 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:02:57,183 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:02:57,183 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:02:57,346 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:02:57,379 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:02:57,495 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:02:57,498 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:02:57,502 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:02:57,665 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:02:57,674 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:02:57,913 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:02:57,914 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:02:57,916 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:03:00,974 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:01,517 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:09,149 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:03:09,150 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:09,150 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:03:09,169 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:03:09,185 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:03:09,368 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:09,409 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:09,470 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:03:09,472 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:03:09,475 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:03:13,411 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:14,703 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:14,897 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:16,732 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:18,396 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:18,560 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:19,918 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:03:23,065 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:25,660 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 09:05:25,660 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 09:05:25,660 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 09:05:25,681 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 09:05:25,681 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 09:05:25,681 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 09:05:25,682 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:05:25,682 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:05:25,682 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 09:05:25,688 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 09:05:25,689 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 09:05:25,690 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 09:05:25,699 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 09:05:25,699 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 09:05:25,700 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 09:05:36,378 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:05:36,380 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:36,380 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:05:36,380 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:05:36,380 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:36,380 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:05:36,778 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:05:36,834 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:05:36,968 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:05:37,078 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:05:37,902 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:05:38,048 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:05:38,070 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:05:38,250 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:05:38,252 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:05:38,253 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:05:42,101 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:42,169 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:48,044 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:48,044 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:52,020 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:52,408 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:52,852 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 09:05:52,853 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:52,853 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 09:05:52,894 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 09:05:52,906 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 09:05:53,244 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 09:05:53,245 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 09:05:53,247 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 09:05:55,692 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:56,024 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:05:57,412 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:06:00,604 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:06:04,469 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 09:06:07,555 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,462 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,462 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,462 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,472 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,472 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:16:43,472 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:34,580 [TestNG-tests-1] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 12:18:34,580 [TestNG-tests-3] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserfirefox
+2025-07-03 12:18:34,580 [TestNG-tests-2] INFO  BaseLayerPackage.BaseClass - initialization from base class of browseredge
+2025-07-03 12:18:34,601 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - setting the webdriverfirefox
+2025-07-03 12:18:34,601 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 12:18:34,601 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - setting the webdriveredge
+2025-07-03 12:18:34,601 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:18:34,601 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:18:34,601 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:18:34,618 [TestNG-tests-2] INFO  DriverFactory.DriverFactory - Creating the browsre instanceedge
+2025-07-03 12:18:34,618 [TestNG-tests-3] INFO  DriverFactory.DriverFactory - Creating the browsre instancefirefox
+2025-07-03 12:18:34,618 [TestNG-tests-1] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 12:18:34,628 [TestNG-tests-1] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 12:18:34,628 [TestNG-tests-2] INFO  BrowserManager.EdgeManager - Browser initialization of edge driver from edge manager
+2025-07-03 12:18:34,628 [TestNG-tests-3] INFO  BrowserManager.FireFoxDriverManager - Browser initialization of fire fox driver from fire fox manager
+2025-07-03 12:18:36,476 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:18:36,477 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:36,477 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:18:36,484 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:18:36,484 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:36,484 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:18:36,540 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:18:36,548 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:18:36,610 [TestNG-tests-2] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:18:36,619 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:18:36,629 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:18:36,632 [TestNG-tests-2] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:18:36,653 [TestNG-tests-2] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:18:36,668 [TestNG-tests-1] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:18:36,669 [TestNG-tests-1] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:18:36,669 [TestNG-tests-1] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:18:38,944 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:18:38,945 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:38,945 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:18:38,950 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:18:38,955 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:18:38,960 [TestNG-tests-3] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:18:38,961 [TestNG-tests-3] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:18:38,961 [TestNG-tests-3] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:18:40,536 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:40,752 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:40,775 [TestNG-tests-1] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:40,828 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:41,017 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:42,724 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:42,799 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:43,238 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:43,245 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:43,301 [TestNG-tests-2] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:44,859 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:44,904 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:18:44,908 [TestNG-tests-3] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:45:32,874 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:45:32,883 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:46:29,411 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 12:46:29,414 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 12:46:29,414 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:46:29,415 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 12:46:29,415 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 12:46:31,765 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:46:31,765 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:46:31,765 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:46:31,773 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:46:31,775 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:46:31,809 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:46:31,811 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:46:31,812 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:46:32,764 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:46:37,884 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:55:59,747 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 12:55:59,750 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 12:55:59,750 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:55:59,751 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 12:55:59,752 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 12:56:01,724 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:56:01,724 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:56:01,724 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:56:01,742 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:56:01,749 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:56:01,797 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:56:01,798 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:56:01,799 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:56:02,890 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:56:12,702 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:56:12,715 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:57:10,265 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 12:57:10,270 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 12:57:10,270 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:57:10,271 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 12:57:10,271 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 12:57:12,141 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:57:12,141 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:57:12,141 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:57:12,155 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:57:12,159 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:57:12,200 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:57:12,201 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:57:12,202 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:57:13,365 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:57:22,059 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:57:22,069 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:59:10,911 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 12:59:10,917 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 12:59:10,917 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 12:59:10,920 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 12:59:10,922 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 12:59:12,726 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 12:59:12,726 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:59:12,726 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 12:59:12,740 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 12:59:12,744 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 12:59:12,781 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 12:59:12,784 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 12:59:12,786 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 12:59:13,912 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 12:59:19,109 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:00:43,729 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 13:00:43,734 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 13:00:43,734 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 13:00:43,735 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 13:00:43,735 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 13:00:45,679 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 13:00:45,679 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:00:45,679 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 13:00:45,690 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 13:00:45,695 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 13:00:46,132 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:01:29,963 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 13:01:29,966 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 13:01:29,966 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 13:01:29,967 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 13:01:29,968 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 13:01:31,628 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 13:01:31,628 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:01:31,629 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 13:01:31,644 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 13:01:31,652 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 13:01:31,705 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 13:01:31,707 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 13:01:31,708 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 13:01:35,968 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:01:36,220 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:02:37,891 [main] INFO  BaseLayerPackage.BaseClass - initialization from base class of browserchrome
+2025-07-03 13:02:37,895 [main] INFO  UtilityLayer.WebDriverImplements - setting the webdriverchrome
+2025-07-03 13:02:37,895 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance setting from threadlocal
+2025-07-03 13:02:37,896 [main] INFO  DriverFactory.DriverFactory - Creating the browsre instancechrome
+2025-07-03 13:02:37,897 [main] INFO  BrowserManager.ChromeManager - Browser initialization of chrome driver from chromemanager
+2025-07-03 13:02:39,627 [main] INFO  UtilityLayer.WebDriverImplements - Getting the webdriver instance
+2025-07-03 13:02:39,628 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:02:39,628 [main] INFO  UtilityLayer.WebDriverImplements - Clearing all the cookies
+2025-07-03 13:02:39,643 [main] INFO  UtilityLayer.WebDriverImplements - Adding the Synchronyzation
+2025-07-03 13:02:39,649 [main] INFO  UtilityLayer.WebDriverImplements - Maximizing the window
+2025-07-03 13:02:39,696 [main] INFO  UtilityLayer.WebDriverImplements - Launching the url
+2025-07-03 13:02:39,698 [main] INFO  Reader.ConfigReader - Loading the properties file
+2025-07-03 13:02:39,699 [main] INFO  Reader.ConfigReader - Fetching the url from properties file
+2025-07-03 13:02:43,972 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
+2025-07-03 13:02:44,378 [main] INFO  DriverFactory.ThreadLocalDriverFactory - Instance getting from threadlocal
