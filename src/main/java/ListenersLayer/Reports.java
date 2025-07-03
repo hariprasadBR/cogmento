@@ -54,7 +54,7 @@ public class Reports implements ITestListener {
 
     private void captureScreenshot(ITestResult result) {
         
-        String path = ExtentReportsetup.takescreenshot("Screenshot", result.getMethod().getMethodName());
+        String path = ExtentReportsetup.takescreenshot(result.getMethod().getMethodName());
         try {
             extenttest.get().addScreenCaptureFromPath(path);
         } catch (Exception e) {

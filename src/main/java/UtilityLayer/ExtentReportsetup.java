@@ -21,7 +21,7 @@ public class ExtentReportsetup extends BaseClass {
 public static ExtentReports setup(String suitename) {
 		
 		ExtentReports ex=new ExtentReports();
-		ExtentSparkReporter exr = new ExtentSparkReporter(System.getProperty("user.dir")+"\\rp\\File"+suitename+date()+".html");
+		ExtentSparkReporter exr = new ExtentSparkReporter(System.getProperty("user.dir")+"\\reportsFolder\\File"+suitename+date()+".html");
 		ex.attachReporter(exr);
 		return ex;
 		
@@ -33,11 +33,11 @@ public static ExtentReports setup(String suitename) {
 		String date1=dd.format(new Date());
 		return date1;
 	}
-	public static String takescreenshot(String foldername,String methodname) {
+	public static String takescreenshot(String methodname) {
 		 WebDriver driver = ThreadLocalDriverFactory.getDriver();
 		TakesScreenshot sc= (TakesScreenshot)driver;
 		File src=sc.getScreenshotAs(OutputType.FILE);
-		File dest = new File(System.getProperty("user.dir")+"\\Screenshots\\"+foldername+"\\"+methodname+date()+".png");
+		File dest = new File(System.getProperty("user.dir")+"\\Screenshots"+"\\"+methodname+date()+".png");
 		try {
 			FileUtils.copyFile(src, dest);
 		} catch (IOException e) {
