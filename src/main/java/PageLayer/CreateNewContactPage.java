@@ -36,6 +36,8 @@ public class CreateNewContactPage extends BaseClass {
 
 	@FindBy(xpath = "//button[text()='Save']")
 	private WebElement saveButton;
+	
+	
 
 	public CreateNewContactPage() {
 		PageFactory.initElements(getDriver(), this);
@@ -69,6 +71,7 @@ public class CreateNewContactPage extends BaseClass {
 		Thread.sleep(4000);
 		saveButton.click();
 
+		
 	}
 
 }

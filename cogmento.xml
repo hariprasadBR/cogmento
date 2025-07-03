@@ -10,6 +10,8 @@
 	  <parameter name="browser" value="firefox"/>
     <classes>
       <class name="TestLayer.CloginTestcases"/>
+      <class name="TestLayer.ContactListTestcases"/>
+       <class name="TestLayer.ContactListTestcases"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
