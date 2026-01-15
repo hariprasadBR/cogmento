@@ -9,3 +9,6 @@ Test → setDriver("chrome")
 
 Test → getDriver()
      → returns WebDriver for current thread
+
+
+     -> ThreadLocal maps WebDriver instances to TestNG threads, enabling safe parallel execution.
