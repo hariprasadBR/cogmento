@@ -22,4 +22,11 @@ public class ThreadLocalDriverFactory {
 		tl.set(driverManager.browserinitialization());
 		
 	}
+	public static void quitDriver() {
+    if (tl.get() != null) {
+        tl.get().quit();   // closes browser
+        tl.remove();       // removes thread reference ✅
+        logger.info("Driver quit and ThreadLocal cleaned");
+    }
+}
 }
