@@ -11,7 +11,7 @@ import HelperLayer.BrowserManager;
 public class DriverFactory {
 	private static final Logger logger = LogManager.getLogger(DriverFactory.class);
 	
-	public static BrowserManager getDriver(String browsername) {
+	public static BrowserManager getBroswer(String browsername) {
 		logger.info("Creating the browsre instance"+browsername);
 		
 		switch(browsername.toLowerCase()){
