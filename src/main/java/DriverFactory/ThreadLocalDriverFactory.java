@@ -18,7 +18,7 @@ public class ThreadLocalDriverFactory {
 	
 	public static void setDriver(String browsername) {
 		logger.info("Instance setting from threadlocal");
-		BrowserManager driverManager=DriverFactory.getDriver(browsername);
+		BrowserManager driverManager=DriverFactory.getBroswer(browsername);
 		tl.set(driverManager.browserinitialization());
 		
 	}
