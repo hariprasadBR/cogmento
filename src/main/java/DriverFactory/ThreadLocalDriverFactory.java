@@ -20,8 +20,8 @@ public class ThreadLocalDriverFactory {
 
     public static void setDriver(String browserName) {
         logger.info("Setting driver in ThreadLocal");
-        BrowserManager manager = DriverFactory.getBrowser(browserName);
-        tl.set(manager.initializeBrowser(browserName));
+        BrowserManager manager = BrowserManager.initializeBrowser(browserName);
+        tl.set(manager);
     }
 
     public static void quitDriver() {
